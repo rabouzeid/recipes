@@ -1,4 +1,4 @@
-# Recipes
+# Recipes edited by Richard
 
 This repository contains recipes for some foods I like.
 
